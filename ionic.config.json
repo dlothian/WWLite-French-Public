@@ -1,0 +1,8 @@
+{
+  "name": "VerbApp",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
